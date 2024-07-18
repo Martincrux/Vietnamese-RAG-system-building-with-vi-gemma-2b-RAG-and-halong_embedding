@@ -26,6 +26,6 @@ RAG is a powerful technique that combines the strengths of retrieval-based and g
 
 
 
-* A massive shout out to [Mr. Hieu Ngo](https://www.linkedin.com/in/hieu-ngo-500818174) and [Ms. Cuc Trinh](https://www.linkedin.com/in/trinh-cuc-5722832b6) for all the laughs, support, and incredible work. You two rock! 🤘 *
+*A massive shout out to [Mr. Hieu Ngo](https://www.linkedin.com/in/hieu-ngo-500818174) and [Ms. Cuc Trinh](https://www.linkedin.com/in/trinh-cuc-5722832b6) for all the laughs, support, and incredible work. You two rock! 🤘*
 
 This project is open-source and contributions are welcome! Feel free to open issues or pull requests for any suggestions, improvements, or bug fixes. 
