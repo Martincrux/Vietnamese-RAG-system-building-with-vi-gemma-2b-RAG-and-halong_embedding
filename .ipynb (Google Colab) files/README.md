@@ -1,6 +1,6 @@
 # Google Colab Notebooks
 
-This folder contains Google Colab notebooks for building a Vietnamese RAG system.
+This folder contains Google Colab presetuped notebooks for building a Vietnamese RAG system.
 
 ## Notebooks:
 
